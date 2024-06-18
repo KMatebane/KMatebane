@@ -2,10 +2,6 @@
 
 ## <br />
 
-### ABOUT
-
-<h4> I am a Data Scientist, Blockchain Developer and Graphic Designer. With my current skill set, I am able to analyse and model data in order to solve business problems. Naturally, a data scientist needs a place to store data, and my prefered storage method is blockchain, because of its security and transparency. </h4>
-
 ---
 
 ### CODING TOOLS
